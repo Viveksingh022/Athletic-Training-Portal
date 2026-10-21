@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Athletic Training Session — Frontend
 
 Athletic Training Session (ATS) ke frontend ka yeh React + TypeScript web app hai. Iska initial product direction training videos se movement aur biomechanics insights dena, aur coaches/athletes ko progress dekhne ke liye dashboard dena hai.
@@ -156,3 +157,7 @@ npm run lint
 ## Build verification
 
 README update ke waqt frontend folder mein `npm run build` successful raha: TypeScript build step complete hua aur Vite ne `dist/` bundle generate kiya. Yeh build verification hai; isse placeholders, pending pages ya end-to-end video analysis complete hone ka daava nahin kiya ja raha.
+=======
+# Athletic-Training-Portal
+Athletic Training Portal (ATP) is a sports biomechanics platform that uses smartphone video to analyze athletes’ range of motion and body symmetry, helping coaches improve performance, training, and rehabilitation without expensive motion-capture equipment.
+>>>>>>> 27af4a7781ba52e2c11cfcbbe542584921b5d1dc
