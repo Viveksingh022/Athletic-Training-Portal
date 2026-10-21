@@ -1,0 +1,51 @@
+:root {
+  --background: #0B1020;
+  --background-rgb: 11, 16, 32;
+  --card-background: #151E31;
+  --card-background-rgb: 21, 30, 49;
+  --primary-blue: #3987F5;
+  --primary-blue-rgb: 57, 135, 245;
+  --main-text: #F1F5FF;
+  --main-text-rgb: 241, 245, 255;
+  --secondary-text: #9AA9C2;
+  --secondary-text-rgb: 154, 169, 194;
+  --border: #29364D;
+  --border-rgb: 41, 54, 77;
+  --warning: #F5AC32;
+  --warning-rgb: 245, 172, 50;
+  --attention-indicator: #F45B64;
+  --attention-indicator-rgb: 244, 91, 100;
+}
+
+/* Additional spacing and typography */
+:root {
+  --spacing-xxs: 4px;
+  --spacing-xs: 8px;
+  --spacing-sm: 12px;
+  --spacing-md: 16px;
+  --spacing-lg: 24px;
+  --spacing-xl: 32px;
+  --spacing-xxl: 48px;
+  --spacing-xxxl: 64px;
+
+  --font-size-xs: 12px;
+  --font-size-sm: 14px;
+  --font-size-md: 16px;
+  --font-size-lg: 18px;
+  --font-size-xl: 20px;
+  --font-size-xxl: 24px;
+  --font-size-xxxl: 32px;
+  --font-size-4xl: 36px;
+  --font-size-5xl: 48px;
+  --font-size-6xl: 60px;
+
+  --font-weight-normal: 400;
+  --font-weight-medium: 500;
+  --font-weight-bold: 600;
+  --font-weight-extrabold: 700;
+
+  --border-radius-sm: 4px;
+  --border-radius-md: 8px;
+  --border-radius-lg: 12px;
+  --border-radius-xl: 16px;
+}
